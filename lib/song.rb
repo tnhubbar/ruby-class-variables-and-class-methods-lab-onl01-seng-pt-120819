@@ -19,7 +19,8 @@ end
     @@count 
   end 
   
-  
+  def self.genres 
+    
   
   
 end 

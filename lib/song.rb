@@ -20,7 +20,8 @@ end
   end 
   
   def self.genres 
-    
+    @@genres.uniq do |genres|
+      |genres
   
   
 end 
